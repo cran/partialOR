@@ -1,0 +1,11 @@
+b4f44cfd9dbbc08cfcf7dafe62eda008 *DESCRIPTION
+0c7d3077a73b6db06a96af96b42594f7 *NAMESPACE
+fa0f817d868ef526b69f8614d17a7c97 *R/fitOR.R
+b4c856ccbdfe438172b3582371cd7504 *R/partOR.R
+481cbeb9c6d9db600fd93baec7dc5f53 *R/reportOR.R
+49807567ff58fc427dc3d0fb2884f344 *R/simData.R
+f1f67cbffa4e4ffa3df64c38473fa9cf *man/fitOR.Rd
+b6b14b322944a2be0357da07eda0795c *man/partOR.Rd
+8d1d00e9f5c35c3cc66e9e1837ab64b5 *man/partialOR-package.Rd
+0bcd92137dab5d4c65f2d7a9185ad564 *man/reportOR.Rd
+1d13f04ad27826ab198c695eb45db02d *man/simData.Rd
